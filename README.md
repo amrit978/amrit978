@@ -4,11 +4,11 @@
 
 <h3>👨🏻‍💻 About Me</h3>
 
-🎓   CSE (AI & ML) student at Asansol Engineering College
-💻   Developer exploring Web Development, Java & AI/ML
-🚀   Secretary & Management Lead at DevSoc AEC
-🌱   Currently learning JavaScript, Linux & Full-Stack Development
-💡   Building projects, learning new technologies, and solving problems
+* 🎓   *CSE (AI & ML) student at Asansol Engineering College*
+* 💻   *Developer exploring Web Development, Java & AI/ML*
+* 🚀   *Secretary & Management Lead at DevSoc AEC*
+* 🌱   *Currently learning JavaScript, Linux & Full-Stack Development*
+* 💡   *Building projects, learning new technologies, and solving problems*
 
 <h3>🛠 Tech Stack</h3>
 
