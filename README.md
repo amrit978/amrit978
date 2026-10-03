@@ -4,15 +4,11 @@
 
 <h3>👨🏻‍💻 About Me</h3>
 
-* 🔭   Currently learning **JavaScript, Linux, and Full-Stack Web Development**
-* 🤔   Exploring new technologies and building practical software solutions.
-* 🎓   Pursuing **Computer Science & Engineering (AI & ML)** at Asansol Engineering College.
-* 💻   Interested in **Web Development, Software Development, and AI/ML**.
-* 🚀   **Secretary & Management Lead at Development Society AEC (DevSoc AEC)**
-* 🛠️   Working on projects that combine technology, problem-solving, and creativity.
-* 🌱   Currently improving my skills in **Java, JavaScript, HTML, CSS, and Linux**.
-* 🎨   I also enjoy **UI design, video editing, and experimenting with new ideas**.
-* ⚡   I believe every project is an opportunity to learn something new and build something meaningful.
+🎓   CSE (AI & ML) student at Asansol Engineering College
+💻   Developer exploring Web Development, Java & AI/ML
+🚀   Secretary & Management Lead at DevSoc AEC
+🌱   Currently learning JavaScript, Linux & Full-Stack Development
+💡   Building projects, learning new technologies, and solving problems
 
 <h3>🛠 Tech Stack</h3>
 
