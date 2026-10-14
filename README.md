@@ -1,6 +1,6 @@
 <h2>Hey there! I'm Amrit. 👋</h2>
 
-<img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" padding="3px" alt="Coding GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 # 💫 About Me:
 
