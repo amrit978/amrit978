@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Amrit. 👋</h2>
+<h1>Hey there! I'm Amrit. 👋</h1>
 
 <img align="right" padding="3px" alt="Coding GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
