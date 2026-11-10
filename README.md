@@ -22,12 +22,12 @@
 
 <!-- COMMITS:START -->
 <p align="center">
-<a href="https://github.com/amrit978/Wishfor/commit/92aa8932c62bd07749287c7219eb73a2058a5edf"><img src="assets/generated/commit-01.svg" alt="recent commit 1" width="392"></a>
-<a href="https://github.com/amrit978/amrit978/commit/47cbeb29fd29752cc89178a02300bef563d9c6c9"><img src="assets/generated/commit-02.svg" alt="recent commit 2" width="392"></a>
-<a href="https://github.com/amrit978/Wishfor/commit/f9dc68a77e4dc8a7948b203435692a35f66ce0bf"><img src="assets/generated/commit-03.svg" alt="recent commit 3" width="392"></a>
-<a href="https://github.com/amrit978/Wishfor/commit/bf84dbbf2d9065124557e49ce820c8a388caf6d9"><img src="assets/generated/commit-04.svg" alt="recent commit 4" width="392"></a>
-<a href="https://github.com/amrit978/Wishfor/commit/e56d41c06e6baed3596da6589fe7b78b5c9bd4cf"><img src="assets/generated/commit-05.svg" alt="recent commit 5" width="392"></a>
-<a href="https://github.com/amrit978/Wishfor/commit/272de82fa1349f10b46a6ee405ad28fcee81a483"><img src="assets/generated/commit-06.svg" alt="recent commit 6" width="392"></a>
+<a href="https://github.com/amrit978/Wishfor/commit/4159b07ef921a97bf25267db78971da7f6217e2e"><img src="assets/generated/commit-01.svg" alt="recent commit 1" width="392"></a>
+<a href="https://github.com/amrit978/Wishfor/commit/e9ac30704a9001f5594f10c44d24861cfa426df5"><img src="assets/generated/commit-02.svg" alt="recent commit 2" width="392"></a>
+<a href="https://github.com/amrit978/Wishfor/commit/ea1758fdeb33fa96133f22209354edb385376ad5"><img src="assets/generated/commit-03.svg" alt="recent commit 3" width="392"></a>
+<a href="https://github.com/amrit978/Wishfor/commit/a04e030ce6cbf31aa3b9a1d8fa0668f3ebdf64f4"><img src="assets/generated/commit-04.svg" alt="recent commit 4" width="392"></a>
+<a href="https://github.com/amrit978/Wishfor/commit/d65f1dcf11d9981b27e3fe0912581fd5a4de8644"><img src="assets/generated/commit-05.svg" alt="recent commit 5" width="392"></a>
+<a href="https://github.com/amrit978/Wishfor/commit/3ae36d6934d6e4dea9f7a5c8c65923999e2d2e82"><img src="assets/generated/commit-06.svg" alt="recent commit 6" width="392"></a>
 </p>
 <!-- COMMITS:END -->
 
