@@ -9,11 +9,12 @@
 
 <!-- REPOS:START -->
 <p align="center">
-<a href="https://github.com/amrit978/portfolio"><img src="assets/generated/project-01.svg" alt="portfolio" width="392"></a>
-<a href="https://github.com/amrit978/pomodoro-timer"><img src="assets/generated/project-02.svg" alt="pomodoro-timer. A simple desktop Pomodoro timer built with C++ and Qt6 Widgets" width="392"></a>
-<a href="https://github.com/amrit978/Expense-Tracker"><img src="assets/generated/project-03.svg" alt="Expense-Tracker" width="392"></a>
-<a href="https://github.com/amrit978/Tip-Calculator"><img src="assets/generated/project-04.svg" alt="Tip-Calculator" width="392"></a>
-<a href="https://github.com/amrit978/jarvis"><img src="assets/generated/project-05.svg" alt="jarvis" width="392"></a>
+<a href="https://github.com/amrit978/Wishfor"><img src="assets/generated/project-01.svg" alt="Wishfor: &quot;Wish For&quot; help others" width="392"></a>
+<a href="https://github.com/amrit978/portfolio"><img src="assets/generated/project-02.svg" alt="portfolio: no description yet" width="392"></a>
+<a href="https://github.com/amrit978/pomodoro-timer"><img src="assets/generated/project-03.svg" alt="pomodoro-timer: A simple desktop Pomodoro timer built with C++ and Qt6 Widgets." width="392"></a>
+<a href="https://github.com/amrit978/Expense-Tracker"><img src="assets/generated/project-04.svg" alt="Expense-Tracker: no description yet" width="392"></a>
+<a href="https://github.com/amrit978/Tip-Calculator"><img src="assets/generated/project-05.svg" alt="Tip-Calculator: no description yet" width="392"></a>
+<a href="https://github.com/amrit978/jarvis"><img src="assets/generated/project-06.svg" alt="jarvis: no description yet" width="392"></a>
 </p>
 <!-- REPOS:END -->
 
@@ -21,12 +22,12 @@
 
 <!-- COMMITS:START -->
 <p align="center">
-<a href="https://github.com/amrit978/Wishfor/commit/f9dc68a77e4dc8a7948b203435692a35f66ce0bf"><img src="assets/generated/commit-01.svg" alt="recent commit 1" width="392"></a>
-<a href="https://github.com/amrit978/Wishfor/commit/bf84dbbf2d9065124557e49ce820c8a388caf6d9"><img src="assets/generated/commit-02.svg" alt="recent commit 2" width="392"></a>
-<a href="https://github.com/amrit978/Wishfor/commit/e56d41c06e6baed3596da6589fe7b78b5c9bd4cf"><img src="assets/generated/commit-03.svg" alt="recent commit 3" width="392"></a>
-<a href="https://github.com/amrit978/Wishfor/commit/272de82fa1349f10b46a6ee405ad28fcee81a483"><img src="assets/generated/commit-04.svg" alt="recent commit 4" width="392"></a>
-<a href="https://github.com/amrit978/Wishfor/commit/e45a3ed6a2c62c87a18cc438cbbf85e18ee1a16b"><img src="assets/generated/commit-05.svg" alt="recent commit 5" width="392"></a>
-<a href="https://github.com/amrit978/Wishfor/commit/dfc4e9757725bcfc81642f3b5b6bdcf0ffb573ca"><img src="assets/generated/commit-06.svg" alt="recent commit 6" width="392"></a>
+<a href="https://github.com/amrit978/Wishfor/commit/92aa8932c62bd07749287c7219eb73a2058a5edf"><img src="assets/generated/commit-01.svg" alt="recent commit 1" width="392"></a>
+<a href="https://github.com/amrit978/amrit978/commit/47cbeb29fd29752cc89178a02300bef563d9c6c9"><img src="assets/generated/commit-02.svg" alt="recent commit 2" width="392"></a>
+<a href="https://github.com/amrit978/Wishfor/commit/f9dc68a77e4dc8a7948b203435692a35f66ce0bf"><img src="assets/generated/commit-03.svg" alt="recent commit 3" width="392"></a>
+<a href="https://github.com/amrit978/Wishfor/commit/bf84dbbf2d9065124557e49ce820c8a388caf6d9"><img src="assets/generated/commit-04.svg" alt="recent commit 4" width="392"></a>
+<a href="https://github.com/amrit978/Wishfor/commit/e56d41c06e6baed3596da6589fe7b78b5c9bd4cf"><img src="assets/generated/commit-05.svg" alt="recent commit 5" width="392"></a>
+<a href="https://github.com/amrit978/Wishfor/commit/272de82fa1349f10b46a6ee405ad28fcee81a483"><img src="assets/generated/commit-06.svg" alt="recent commit 6" width="392"></a>
 </p>
 <!-- COMMITS:END -->
 
