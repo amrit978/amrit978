@@ -9,7 +9,7 @@
 
 <!-- REPOS:START -->
 <p align="center">
-<a href="https://github.com/amrit978/portfolio"><img src="assets/generated/project-01.svg" alt="portfolio: no description yet" width="392"></a>
+<a href="https://github.com/amrit978/portfolio"><img src="assets/generated/project-01.svg" alt="portfolio: Personal Portfolio " width="392"></a>
 <a href="https://github.com/amrit978/Wishfor"><img src="assets/generated/project-02.svg" alt="Wishfor: &quot;Wish For&quot; help others" width="392"></a>
 <a href="https://github.com/amrit978/pomodoro-timer"><img src="assets/generated/project-03.svg" alt="pomodoro-timer: A simple desktop Pomodoro timer built with C++ and Qt6 Widgets." width="392"></a>
 <a href="https://github.com/amrit978/Expense-Tracker"><img src="assets/generated/project-04.svg" alt="Expense-Tracker: no description yet" width="392"></a>
@@ -22,12 +22,12 @@
 
 <!-- COMMITS:START -->
 <p align="center">
-<a href="https://github.com/amrit978/portfolio/commit/f42bf24f9733388327d0d3c77f7c1cf96d980c9e"><img src="assets/generated/commit-01.svg" alt="recent commit 1" width="392"></a>
-<a href="https://github.com/amrit978/portfolio/commit/6afbc0182bef005da3367d2c123fd3c10224c373"><img src="assets/generated/commit-02.svg" alt="recent commit 2" width="392"></a>
-<a href="https://github.com/amrit978/Wishfor/commit/6df308a5ebcc1594b49fa0eb76b26564c956fd97"><img src="assets/generated/commit-03.svg" alt="recent commit 3" width="392"></a>
-<a href="https://github.com/amrit978/Wishfor/commit/4d24d278c41c81aa5e5c5e5f119b543133a82b5f"><img src="assets/generated/commit-04.svg" alt="recent commit 4" width="392"></a>
-<a href="https://github.com/amrit978/Wishfor/commit/d2421ea76e7ce3d72f1397007f5aeb861366daa6"><img src="assets/generated/commit-05.svg" alt="recent commit 5" width="392"></a>
-<a href="https://github.com/amrit978/Wishfor/commit/022f3b87a431efbe12e384cd848c740e459e41f8"><img src="assets/generated/commit-06.svg" alt="recent commit 6" width="392"></a>
+<a href="https://github.com/amrit978/portfolio/commit/f3b91e54f109fd3dbd78bd6bfa96a68a69d09965"><img src="assets/generated/commit-01.svg" alt="recent commit 1" width="392"></a>
+<a href="https://github.com/amrit978/portfolio/commit/f42bf24f9733388327d0d3c77f7c1cf96d980c9e"><img src="assets/generated/commit-02.svg" alt="recent commit 2" width="392"></a>
+<a href="https://github.com/amrit978/portfolio/commit/6afbc0182bef005da3367d2c123fd3c10224c373"><img src="assets/generated/commit-03.svg" alt="recent commit 3" width="392"></a>
+<a href="https://github.com/amrit978/Wishfor/commit/6df308a5ebcc1594b49fa0eb76b26564c956fd97"><img src="assets/generated/commit-04.svg" alt="recent commit 4" width="392"></a>
+<a href="https://github.com/amrit978/Wishfor/commit/4d24d278c41c81aa5e5c5e5f119b543133a82b5f"><img src="assets/generated/commit-05.svg" alt="recent commit 5" width="392"></a>
+<a href="https://github.com/amrit978/Wishfor/commit/d2421ea76e7ce3d72f1397007f5aeb861366daa6"><img src="assets/generated/commit-06.svg" alt="recent commit 6" width="392"></a>
 </p>
 <!-- COMMITS:END -->
 
