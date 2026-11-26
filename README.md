@@ -22,12 +22,12 @@
 
 <!-- COMMITS:START -->
 <p align="center">
-<a href="https://github.com/amrit978/portfolio/commit/b4e53fddb3a55cbb372f9056696d54be941db2c7"><img src="assets/generated/commit-01.svg" alt="recent commit 1" width="392"></a>
-<a href="https://github.com/amrit978/portfolio/commit/26fbfd477e91332aff0d6dc8a1899a4f1c0a3413"><img src="assets/generated/commit-02.svg" alt="recent commit 2" width="392"></a>
-<a href="https://github.com/amrit978/portfolio/commit/2805acef321b7a2ce752a8a93adf4bf9a021d74c"><img src="assets/generated/commit-03.svg" alt="recent commit 3" width="392"></a>
-<a href="https://github.com/amrit978/portfolio/commit/fa6d8affe33fa49fa02d1af4ab92c5fb594558cd"><img src="assets/generated/commit-04.svg" alt="recent commit 4" width="392"></a>
-<a href="https://github.com/amrit978/portfolio/commit/c4dcaa3d09cdd9290faf7c3ff38776f5bb7dd082"><img src="assets/generated/commit-05.svg" alt="recent commit 5" width="392"></a>
-<a href="https://github.com/amrit978/portfolio/commit/f3b91e54f109fd3dbd78bd6bfa96a68a69d09965"><img src="assets/generated/commit-06.svg" alt="recent commit 6" width="392"></a>
+<a href="https://github.com/amrit978/portfolio/commit/2c9e03b9d8d1edeff6d123bf220bfb181ef5f239"><img src="assets/generated/commit-01.svg" alt="recent commit 1" width="392"></a>
+<a href="https://github.com/amrit978/portfolio/commit/37f4f6818dc0c350f8fe36474523aefdc90634a3"><img src="assets/generated/commit-02.svg" alt="recent commit 2" width="392"></a>
+<a href="https://github.com/amrit978/portfolio/commit/2105d219ef86771a6c3559a126c3230b6da60ca1"><img src="assets/generated/commit-03.svg" alt="recent commit 3" width="392"></a>
+<a href="https://github.com/amrit978/portfolio/commit/7fbff6392ad3fd074570071978a5985153a68027"><img src="assets/generated/commit-04.svg" alt="recent commit 4" width="392"></a>
+<a href="https://github.com/amrit978/portfolio/commit/b4e53fddb3a55cbb372f9056696d54be941db2c7"><img src="assets/generated/commit-05.svg" alt="recent commit 5" width="392"></a>
+<a href="https://github.com/amrit978/portfolio/commit/26fbfd477e91332aff0d6dc8a1899a4f1c0a3413"><img src="assets/generated/commit-06.svg" alt="recent commit 6" width="392"></a>
 </p>
 <!-- COMMITS:END -->
 
