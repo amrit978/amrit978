@@ -9,12 +9,12 @@
 
 <!-- REPOS:START -->
 <p align="center">
-<a href="https://github.com/amrit978/portfolio"><img src="assets/generated/project-01.svg" alt="portfolio: Personal Portfolio " width="392"></a>
-<a href="https://github.com/amrit978/Wishfor"><img src="assets/generated/project-02.svg" alt="Wishfor: &quot;Wish For&quot; help others" width="392"></a>
-<a href="https://github.com/amrit978/pomodoro-timer"><img src="assets/generated/project-03.svg" alt="pomodoro-timer: A simple desktop Pomodoro timer built with C++ and Qt6 Widgets." width="392"></a>
-<a href="https://github.com/amrit978/Expense-Tracker"><img src="assets/generated/project-04.svg" alt="Expense-Tracker: no description yet" width="392"></a>
-<a href="https://github.com/amrit978/Tip-Calculator"><img src="assets/generated/project-05.svg" alt="Tip-Calculator: no description yet" width="392"></a>
-<a href="https://github.com/amrit978/jarvis"><img src="assets/generated/project-06.svg" alt="jarvis: no description yet" width="392"></a>
+<a href="https://github.com/amrit978/WareHouse"><img src="assets/generated/project-01.svg" alt="WareHouse: no description yet" width="392"></a>
+<a href="https://github.com/amrit978/warehouse-api"><img src="assets/generated/project-02.svg" alt="warehouse-api: no description yet" width="392"></a>
+<a href="https://github.com/amrit978/warehouse-ui"><img src="assets/generated/project-03.svg" alt="warehouse-ui: no description yet" width="392"></a>
+<a href="https://github.com/amrit978/portfolio"><img src="assets/generated/project-04.svg" alt="portfolio: Personal Portfolio " width="392"></a>
+<a href="https://github.com/amrit978/Wishfor"><img src="assets/generated/project-05.svg" alt="Wishfor: &quot;Wish For&quot; help others" width="392"></a>
+<a href="https://github.com/amrit978/pomodoro-timer"><img src="assets/generated/project-06.svg" alt="pomodoro-timer: A simple desktop Pomodoro timer built with C++ and Qt6 Widgets." width="392"></a>
 </p>
 <!-- REPOS:END -->
 
@@ -22,12 +22,12 @@
 
 <!-- COMMITS:START -->
 <p align="center">
-<a href="https://github.com/amrit978/portfolio/commit/2c9e03b9d8d1edeff6d123bf220bfb181ef5f239"><img src="assets/generated/commit-01.svg" alt="recent commit 1" width="392"></a>
-<a href="https://github.com/amrit978/portfolio/commit/37f4f6818dc0c350f8fe36474523aefdc90634a3"><img src="assets/generated/commit-02.svg" alt="recent commit 2" width="392"></a>
-<a href="https://github.com/amrit978/portfolio/commit/2105d219ef86771a6c3559a126c3230b6da60ca1"><img src="assets/generated/commit-03.svg" alt="recent commit 3" width="392"></a>
-<a href="https://github.com/amrit978/portfolio/commit/7fbff6392ad3fd074570071978a5985153a68027"><img src="assets/generated/commit-04.svg" alt="recent commit 4" width="392"></a>
-<a href="https://github.com/amrit978/portfolio/commit/b4e53fddb3a55cbb372f9056696d54be941db2c7"><img src="assets/generated/commit-05.svg" alt="recent commit 5" width="392"></a>
-<a href="https://github.com/amrit978/portfolio/commit/26fbfd477e91332aff0d6dc8a1899a4f1c0a3413"><img src="assets/generated/commit-06.svg" alt="recent commit 6" width="392"></a>
+<a href="https://github.com/amrit978/WareHouse/commit/09b932effaad144bdab485ed2afcac513c7eba86"><img src="assets/generated/commit-01.svg" alt="recent commit 1" width="392"></a>
+<a href="https://github.com/amrit978/warehouse-api/commit/ddb407271170d03a749d331c162b5f44523278b9"><img src="assets/generated/commit-02.svg" alt="recent commit 2" width="392"></a>
+<a href="https://github.com/amrit978/warehouse-ui/commit/e4051e9f2b0f14920922cc4e78733b94a6709245"><img src="assets/generated/commit-03.svg" alt="recent commit 3" width="392"></a>
+<a href="https://github.com/amrit978/WareHouse/commit/966c73ffed013d232efce7e8e84c807de90e5e8d"><img src="assets/generated/commit-04.svg" alt="recent commit 4" width="392"></a>
+<a href="https://github.com/amrit978/WareHouse/commit/72b55a7df1443f9118c4b62c90c847b0895f1609"><img src="assets/generated/commit-05.svg" alt="recent commit 5" width="392"></a>
+<a href="https://github.com/amrit978/warehouse-api/commit/bcb6cb46756f4e39aa9ab917347ae6174f1b4ec8"><img src="assets/generated/commit-06.svg" alt="recent commit 6" width="392"></a>
 </p>
 <!-- COMMITS:END -->
 
